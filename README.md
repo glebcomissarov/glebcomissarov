@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Machine Learning Engineer
+- 👀 I’m interested in GNN
+- 🌱 I’m currently learning everything
